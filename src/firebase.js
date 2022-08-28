@@ -6,12 +6,12 @@ import { getAuth } from "firebase/auth";
 import {getFirestore} from "firebase/firestore"
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey:process.env.REACT_APP_API_KEY,
-  authDomain:process.env.REACT_APP_AUTH_DOMAIN,
-  projectId:process.env.REACT_APP_PROJECT_ID,
-  storageBucket:process.env.REACT_APP_STORAGE_BUCKET,
-  messagingSenderId:process.env.REACT_APP_MESSAGING_SENDER_ID,
-  appId:process.env.REACT_APP_APP_ID
+  apiKey:"AIzaSyDG38HjBfM211Ju609St0j2Mx3STx1Jusk",
+  authDomain:"justalk-3361e.firebaseapp.com",
+  projectId:"justalk-3361e",
+  storageBucket:"justalk-3361e.appspot.com",
+  messagingSenderId:"322340874550",
+  appId:"1:322340874550:web:03f3f528de2018ed09ab97"
 };
 
 // Initialize Firebase
